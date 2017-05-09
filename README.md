@@ -1,5 +1,5 @@
 # 2sigma
-2Sigma Financial Competition on Kaggle
+[2Sigma Financial Competition](https://www.kaggle.com/c/two-sigma-financial-modeling) on Kaggle 
 
 Used https://github.com/Giqles/kagglegym to create Docker container
 
